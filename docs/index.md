@@ -1,17 +1,17 @@
 # Bem-vindo a um Material de Suporte (FSO)
 
-<!-- For full documentation visit [mkdocs.org](https://www.mkdocs.org). -->
+Para documentação completa, visite [README](https://github.com/caio-venancio/fso-apoio).
 
-<!-- ## Commands
+## Conteúdos
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
+* `Processos` - Disponível já em [Visão geral de Processos](Processos/index.md).
+* `Threads` - Em construção 🚧🔨
+* `Sincronização` - Em construção 🚧🔨
+* `Scheduling` - Em construção 🚧🔨
 
-## Project layout
+## Guia do Projeto
 
     mkdocs.yml    # The configuration file.
     docs/
         index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files. -->
+        ...       # Other markdown pages, images and other files.
