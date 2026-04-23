@@ -1,1 +1,13 @@
-site_name: My Docs
+site_name: Apoio em FSO 😁
+
+nav:
+  - Home: index.md
+  - Processos: 
+    - Visão Geral: Processos/index.md
+    - Top 10 Perguntas Básicas sobre Processos: Processos/top-10-basico-processos.md
+    # - Home: index.md
+    # - Introdução: introducao.md
+    # - Tutoriais:
+    #     - Instalação: tutoriais/instalacao.md
+    #     - Configuração: tutoriais/configuracao.md
+    # - Sobre: sobre.md
