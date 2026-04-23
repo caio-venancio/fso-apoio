@@ -5,6 +5,12 @@ nav:
   - Processos: 
     - Visão Geral: Processos/index.md
     - Top 10 Perguntas Básicas sobre Processos: Processos/top-10-basico-processos.md
+  - Threads:
+    - Visão geral: Threads/index.md
+  - Sincronização:
+    - Visão geral: Sincronização/index.md
+  - Scheduling:
+    - Visão geral: Scheduling/index.md
     # - Home: index.md
     # - Introdução: introducao.md
     # - Tutoriais:

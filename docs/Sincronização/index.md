@@ -1,0 +1,1 @@
+# Sincronização - Visão geral
