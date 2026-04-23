@@ -2,45 +2,45 @@
 
 Para explicação completa, consulte os [monitores]().
 
-## Perguntas
+## Perguntas Básicas
 
 <details>
-    <summary>O que é um processo?</summary>
+    <summary>1. O que é o modelo de processos?</summary>
     <p></p>
 </details>
 
 <details>
-    <summary></summary>
+    <summary>2. Qual a diferença entre processos e programas?</summary>
 </details>
 
 <details>
-    <summary></summary>
+    <summary>3. Como processos são criados?</summary>
 </details>
 
 <details>
-    <summary></summary>
+    <summary>4. Como processos terminam?</summary>
 </details>
 
 <details>
-    <summary></summary>
+    <summary>5. O que é hierarquia de processos?</summary>
 </details>
 
 <details>
-    <summary></summary>
+    <summary>6. Quais os estados possíveis de um processo?</summary>
 </details>
 
 <details>
-    <summary></summary>
+    <summary>7. Quando um processo é bloqueado?</summary>
 </details>
 
 <details>
-    <summary></summary>
+    <summary>8. O que é a tabela de processos?</summary>
 </details>
 
 <details>
-    <summary></summary>
+    <summary>9. </summary>
 </details>
 
 <details>
-    <summary></summary>
+    <summary>10. </summary>
 </details>
