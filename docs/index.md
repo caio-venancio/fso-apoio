@@ -5,7 +5,7 @@ Para documentação completa, visite [README](https://github.com/caio-venancio/f
 ## Conteúdos
 
 * `Processos` - Disponível já em [Visão geral de Processos](Processos/index.md).
-* `Threads` - Em construção 🚧🔨
+* `Threads` - Em construção, versão inicial em [Visão geral de Threads](Threads/index.md)
 * `Sincronização` - Em construção 🚧🔨
 * `Scheduling` - Em construção 🚧🔨
 
