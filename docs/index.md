@@ -8,6 +8,9 @@ Para documentação completa, visite [README](https://github.com/caio-venancio/f
 * `Threads` - Em construção, versão inicial em [Visão geral de Threads](Threads/index.md)
 * `Sincronização` - Em construção 🚧🔨
 * `Scheduling` - Em construção 🚧🔨
+* `Gereciamento de Memória` - Em construção, versão inicial em [Visão geral de Gereciamento de memória](Memória/index.md)
+* `Sistema de arquivos` - Em construção, versão inicial em [Visão geral de Sistema de Arquivos](Arquivos/index.md)
+* `Entrada e Saída de dispositivos` - Em construção, versão inicial em [Visão geral de Entrada e Saída](EntradaSaida/index.md)
 
 ## Guia do Projeto
 
