@@ -11,6 +11,9 @@ nav:
     - Visão geral: Sincronização/index.md
   - Scheduling:
     - Visão geral: Scheduling/index.md
+  - Gerência de Memória:
+     - Visão Geral: Memória/index.md
+     - Top 10 Perguntas Básicas sobre Memória: Memória/top-10-basico-memoria.md
     # - Home: index.md
     # - Introdução: introducao.md
     # - Tutoriais:
